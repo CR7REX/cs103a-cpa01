@@ -3,9 +3,9 @@
 Data Science is one of the fastest growing areas in Computer Science and indeed in the world workforce. The ability to find and analyze large datasets is becoming an important component of many jobs and is in general an important skill for informed citizens. The goal of this assignment is to give you the opportunity to use the pandas package to load and analyze a large interesting dataset of your choosing.
 
 ## What to do
-create a git repository called cs103a-cpa01 with a README.md file and clone it to your computer, make sure to add a .gitignore file which should have .DS_Store in it, at least.
-find a large dataset online (say at least 10,000 data items) and copy it into your repository (if it is too large, e.g. gigabytes, then add it to the .gitignore so it won't go into your repository)
-create a jupyter notebook called cpa01.ipynb which will hold your work
+1. create a git repository called cs103a-cpa01 with a README.md file and clone it to your computer, make sure to add a .gitignore file which should have .DS_Store in it, at least.
+2. find a large dataset online (say at least 10,000 data items) and copy it into your repository (if it is too large, e.g. gigabytes, then add it to the .gitignore so it won't go into your repository)
+3. create a jupyter notebook called cpa01.ipynb which will hold your work
 create a header cell in which you 
 describe the dataset
 give the URL of where to find the dataset and explain how to download it
