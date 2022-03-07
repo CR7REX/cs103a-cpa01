@@ -38,12 +38,12 @@ the due date is Friday 3/11 before 11am (as we start grading at 11)
 
 ## Rubric
 We wil grade this using a Specs grading approach looking for mastery of the following skills, so make sure that you demonstrate yourself mastering these skills in your movie!
-Github: collaborating on github with a single branch
-Debug: debugging using VScode
-Jupyter: running queries and writing markdown using Jupyter lab
-Python OOP: writing and calling methods for a Python class
-Pylint: using pylint to write clean code
-Python Script: modifying a console-based interactive Python script where the state is encapsulated in a Python class object
+1. Github: collaborating on github with a single branch
+2. Debug: debugging using VScode
+3. Jupyter: running queries and writing markdown using Jupyter lab
+4. Python OOP: writing and calling methods for a Python class
+5. Pylint: using pylint to write clean code
+6. Python Script: modifying a console-based interactive Python script where the state is encapsulated in a Python class object
 We hope and expect that everyone will demonstrate mastery of all 6 of these skills in this PA. If not, then you will have an opportunity to demonstrate mastery in later homework assignments.
 
 For those students with more experience in Python programming, I encourage you to go beyond this assignment and do something you can add to your ePortfolio. It could help you find an internship or job. For example, you could learn to use Flask to create a web interface for the course_search app. When we get a live feed of the registrar's data later this year, it could actually be useful for Brandeis students as an alternative to using Workday to finding courses!
