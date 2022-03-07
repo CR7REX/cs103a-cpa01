@@ -6,34 +6,34 @@ Data Science is one of the fastest growing areas in Computer Science and indeed 
 1. create a git repository called cs103a-cpa01 with a README.md file and clone it to your computer, make sure to add a .gitignore file which should have .DS_Store in it, at least.
 2. find a large dataset online (say at least 10,000 data items) and copy it into your repository (if it is too large, e.g. gigabytes, then add it to the .gitignore so it won't go into your repository)
 3. create a jupyter notebook called cpa01.ipynb which will hold your work
-create a header cell in which you 
-  * a. describe the dataset
+  * create a header cell in which you 
+    * describe the dataset
     * give the URL of where to find the dataset and explain how to download it
     * give at least two interesting questions you have about the data 
-load the data into a pandas dataframe
-use pd.describe() to get a rough overview of the data
-analyze your data using the following features
-print the array of columns and the index array
-create some simple plot of part of the data
-create a pivot table and plot some data from that pivot table
-use the groupby feature
-create a discussion cell in which you discuss what your analysis tells you about the data
-push your changes to github
+  * load the data into a pandas dataframe
+  * use pd.describe() to get a rough overview of the data
+  * analyze your data using the following features
+    * print the array of columns and the index array
+    * create some simple plot of part of the data
+    * create a pivot table and plot some data from that pivot table
+    * use the groupby feature
+  * create a discussion cell in which you discuss what your analysis tells you about the data
+4. push your changes to github
 
 
 
 
 ## What and How to submit
 
-You should make a short Zoom recording (about 1-5 minutes) stored in the cloud, showing mastery of the following six skills
-running the Jupyter notebook and showing the markdown and code cells you created (Jupyter)
-describe your dataset and the questions you were asking, and show the pandas code you wrote to read it in and show the columns and index and the table itself (pandas.read_csv)
-show a pivot table you created and interpret it (pandas.pivot_table)
-show the plot you made from the pivot table (pandas,plot) the plot should have labels on the axes and a title and a legend
-show your use of groupby and interpret the results (pandas.groupby)
-describe what your analysis tells you about the questions you asked (pandas.analysis)
-upload links to the github repository and a link t your Zoom movie to the CPA01 problem on the Master-Programs site (with PIN 7297444)
-the due date is Friday 3/11 before 11am (as we start grading at 11)
+1. You should make a short Zoom recording (about 1-5 minutes) stored in the cloud, showing mastery of the following six skills
+  * running the Jupyter notebook and showing the markdown and code cells you created (Jupyter)
+  * describe your dataset and the questions you were asking, and show the pandas code you wrote to read it in and show the columns and index and the table itself (pandas.read_csv)
+  * show a pivot table you created and interpret it (pandas.pivot_table)
+  * show the plot you made from the pivot table (pandas,plot) the plot should have labels on the axes and a title and a legend
+  * show your use of groupby and interpret the results (pandas.groupby)
+  * describe what your analysis tells you about the questions you asked (pandas.analysis)
+  * upload links to the github repository and a link t your Zoom movie to the CPA01 problem on the Master-Programs site (with PIN 7297444)
+2. the due date is Friday 3/11 before 11am (as we start grading at 11)
 
 
 ## Rubric
