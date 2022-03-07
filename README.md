@@ -7,8 +7,8 @@ Data Science is one of the fastest growing areas in Computer Science and indeed 
 2. find a large dataset online (say at least 10,000 data items) and copy it into your repository (if it is too large, e.g. gigabytes, then add it to the .gitignore so it won't go into your repository)
 3. create a jupyter notebook called cpa01.ipynb which will hold your work
 create a header cell in which you 
-describe the dataset
-give the URL of where to find the dataset and explain how to download it
+a. describe the dataset
+*give the URL of where to find the dataset and explain how to download it
 give at least two interesting questions you have about the data 
 load the data into a pandas dataframe
 use pd.describe() to get a rough overview of the data
