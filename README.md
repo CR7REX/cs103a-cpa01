@@ -1,12 +1,8 @@
 # cs103a-cpa01
-CPA01 - Python Data Analysis II
-due Friday 3/11 11am  on mastery.cs.brandeis.edu 
-CS103a-Programs PIN:7297444
-
-Motivation 
+## Motivation 
 Data Science is one of the fastest growing areas in Computer Science and indeed in the world workforce. The ability to find and analyze large datasets is becoming an important component of many jobs and is in general an important skill for informed citizens. The goal of this assignment is to give you the opportunity to use the pandas package to load and analyze a large interesting dataset of your choosing.
 
-What to do
+## What to do
 create a git repository called cs103a-cpa01 with a README.md file and clone it to your computer, make sure to add a .gitignore file which should have .DS_Store in it, at least.
 find a large dataset online (say at least 10,000 data items) and copy it into your repository (if it is too large, e.g. gigabytes, then add it to the .gitignore so it won't go into your repository)
 create a jupyter notebook called cpa01.ipynb which will hold your work
@@ -27,7 +23,7 @@ push your changes to github
 
 
 
-\What and How to submit
+##What and How to submit
 
 You should make a short Zoom recording (about 1-5 minutes) stored in the cloud, showing mastery of the following six skills
 running the Jupyter notebook and showing the markdown and code cells you created (Jupyter)
@@ -40,7 +36,7 @@ upload links to the github repository and a link t your Zoom movie to the CPA01 
 the due date is Friday 3/11 before 11am (as we start grading at 11)
 
 
-Rubric
+##Rubric
 We wil grade this using a Specs grading approach looking for mastery of the following skills, so make sure that you demonstrate yourself mastering these skills in your movie!
 Github: collaborating on github with a single branch
 Debug: debugging using VScode
