@@ -23,7 +23,7 @@ push your changes to github
 
 
 
-##What and How to submit
+## What and How to submit
 
 You should make a short Zoom recording (about 1-5 minutes) stored in the cloud, showing mastery of the following six skills
 running the Jupyter notebook and showing the markdown and code cells you created (Jupyter)
@@ -36,7 +36,7 @@ upload links to the github repository and a link t your Zoom movie to the CPA01 
 the due date is Friday 3/11 before 11am (as we start grading at 11)
 
 
-##Rubric
+## Rubric
 We wil grade this using a Specs grading approach looking for mastery of the following skills, so make sure that you demonstrate yourself mastering these skills in your movie!
 Github: collaborating on github with a single branch
 Debug: debugging using VScode
